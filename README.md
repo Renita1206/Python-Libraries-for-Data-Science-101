@@ -1,2 +1,8 @@
 # Learning-Data-Science
-Python library tutorials
+Jupyter notebook with basic functions  
+
+
+## Libraries  
+- Matplotlib  
+- Pandas  
+- Numpy
