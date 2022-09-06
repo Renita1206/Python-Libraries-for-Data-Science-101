@@ -1,4 +1,4 @@
-# Learning-Data-Science
+# Python-Libraries-for-Data-Science-101
 Jupyter notebook with basic functions  
 
 
